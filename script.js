@@ -1,5 +1,5 @@
 document.getElementById('save-note').addEventListener('click', function() {
-    const noteText = document.getElementById('new-note').value;
+    const noteText = document.getElementById('new-note').value.trim();
     if(noteText) {
         const noteList = document.getElementById('notes-list');
         const newNote = document.createElement('div');
