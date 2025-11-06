@@ -21,3 +21,5 @@ Thank you for considering contributing to Collaborative Notetaker! We welcome co
    git push origin feature-name
    ```
 6. **Create a Pull Request**: Navigate to the original repository and click on 'New Pull Request'. Select your fork and the branch with your changes.
+
+For additional assistance, feel free to reach out or check the project's issues.
