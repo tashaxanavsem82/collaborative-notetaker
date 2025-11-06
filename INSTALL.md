@@ -1,7 +1,7 @@
 # Installation Guide for Collaborative Notetaker
 
 ## Prerequisites
-- Node.js (version 16 or higher)
+- Node.js (version 18 or higher)
 - npm (Node Package Manager)
 
 ## Installation Steps
